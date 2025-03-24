@@ -1,9 +1,9 @@
-#Macro Machine is a Windows Forms application for creating and managing sophisticated keyboard macros.
+# Macro Machine is a Windows Forms application for creating and managing sophisticated keyboard macros.
 
-##🤖 Advanced macro creation system
+## 🤖 Advanced macro creation system
 
-##🖥️ Dynamic keyboard layout
+## 🖥️ Dynamic keyboard layout
 
-##💾 Persistent macro storage
+## 💾 Persistent macro storage
 
-##🔄 Real-time macro toggling
+## 🔄 Real-time macro toggling
